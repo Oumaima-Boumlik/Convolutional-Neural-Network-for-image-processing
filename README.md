@@ -8,6 +8,14 @@ Convolutional Neural Network for image processing using UNET architecture.
  ![alt test](u-net-architecture.png)
  
  **Notebooks Content** :
+ 
+   -DisplayImageMask.ipynb ==> Visualize images & coresponding masks of the training dataset.
+   -CNN(UNET).ipynb ==> Model building & Training.
+   -UnetTestDataB.ipynb ==> Model testing.
+   
+  **Useful Documentation** : A guide to convolution arithmetic for deep Learning
+   
+ 
    
  
  
